@@ -60,13 +60,13 @@ Jawab : pada sourcoding nya memiliki method yang sama namun sifat yang berbeda y
 
 TUGAS
 
-NO 1
+NO 1 (Overloading)
 
 <img src="./segitiga.png" />
 
 <img src="./mainSegitiga.png" />
 
-NO 2
+NO 2 (Overriding)
 
 <img src="./manusia.png" />
 

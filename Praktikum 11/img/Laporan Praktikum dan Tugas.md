@@ -30,7 +30,7 @@ Percobaan 2
 
 <img src="./multiplemain.png" />
 
-<img src="./output2.png" />
+<img src="./ouput2.png" />
 
 Pertanyaan
 
@@ -83,7 +83,7 @@ Jawab : Karena classnya berupa abstract sehingga tidak dapar diinstansiasikan ke
 maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat 
 memberikan sertifikat mawapres pada objek sarjanaCumlaude.
 
-Jawab : <img src="./output2.png" />
+Jawab : <img src="./ouput2.png" />
 
 TUGAS
 

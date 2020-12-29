@@ -2,34 +2,34 @@ PEMINJAMAN
 
 Class DBHelper
 
-<img src="./db1.jpg"/>
-<img src="./db2.jpg"/>
-<img src="./db3.jpg"/>
-<img src="./db4.jpg"/>
+<img src="./db1.png"/>
+<img src="./db2.png"/>
+<img src="./db3.png"/>
+<img src="./db4.png"/>
 
 Digunakan untuk menyambungkan Netbeans dengan database yang ada di phpMyAdmin.
 
 Class Jenis Barang
 
-<img src="./jb1.jpg"/>
-<img src="./jb2.jpg"/>
-<img src="./jb3.jpg"/>
-<img src="./jb4.jpg"/>
-<img src="./jb5.jpg"/>
-<img src="./jb6.jpg"/>
+<img src="./jb1.png"/>
+<img src="./jb2.png"/>
+<img src="./jb3.png"/>
+<img src="./jb4.png"/>
+<img src="./jb5.png"/>
+<img src="./jb6.png"/>
 
 Pada class jenis barang berisikan variabel namabarang, IDbarang, dan keterangan dari barang yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database.
 
 Class Kamera
 
-<img src="./kam1.jpg"/>
-<img src="./kam2.jpg"/>
-<img src="./kam3.jpg"/>
-<img src="./kam4.jpg"/>
-<img src="./kam5.jpg"/>
-<img src="./kam6.jpg"/>
-<img src="./kam7.jpg"/>
+<img src="./kam1.png"/>
+<img src="./kam2.png"/>
+<img src="./kam3.png"/>
+<img src="./kam4.png"/>
+<img src="./kam5.png"/>
+<img src="./kam6.png"/>
+<img src="./kam7.png"/>
 
 Pada class kamera berisikan variable idkamera, harga, merek yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. Terdapat variable JenisBarang jb merupakan 
@@ -37,27 +37,27 @@ relasi class kamera pada class jenis barang dimana tiap kamera akan memiliki IDb
 
 Class Pelanggan
 
-<img src="./pel1.jpg"/>
-<img src="./pel2.jpg"/>
-<img src="./pel3.jpg"/>
-<img src="./pel4.jpg"/>
-<img src="./pel5.jpg"/>
-<img src="./pel6.jpg"/>
+<img src="./pel1.png"/>
+<img src="./pel2.png"/>
+<img src="./pel3.png"/>
+<img src="./pel4.png"/>
+<img src="./pel5.png"/>
+<img src="./pel6.png"/>
 
 Pada class pelanggan berisikan variable IDpelanggan, namapelanggan, alamat, dan nomor hp yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. 
 
 Class Peminjaman
 
-<img src="./pem1.jpg"/>
-<img src="./pem2.jpg"/>
-<img src="./pem3.jpg"/>
-<img src="./pem4.jpg"/>
-<img src="./pem5.jpg"/>
-<img src="./pem6.jpg"/>
-<img src="./pem7.jpg"/>
-<img src="./pem8.jpg"/>
-<img src="./pem9.jpg"/>
+<img src="./pem1.png"/>
+<img src="./pem2.png"/>
+<img src="./pem3.png"/>
+<img src="./pem4.png"/>
+<img src="./pem5.png"/>
+<img src="./pem6.png"/>
+<img src="./pem7.png"/>
+<img src="./pem8.png"/>
+<img src="./pem9.png"/>
 
 Pada class peminjaman berisikan variable IDpeminjaman, harga, tanggalpinjam, tanggalkembali yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. Terdapat variable Pelanggan pelanggan, dan JenisBarang jenisbarang

@@ -18,7 +18,7 @@ Class Jenis Barang
 <img src="./jb5.png"/>
 <img src="./jb6.png"/>
 
-Pada class jenis barang berisikan variabel namabarang, IDbarang, dan keterangan dari barang yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
+Pada class jenis barang berisikan atribut namabarang, IDbarang, dan keterangan dari barang yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database.
 
 Class Kamera
@@ -31,7 +31,7 @@ Class Kamera
 <img src="./kam6.png"/>
 <img src="./kam7.png"/>
 
-Pada class kamera berisikan variable idkamera, harga, merek yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
+Pada class kamera berisikan atribut idkamera, harga, merek yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. Terdapat variable JenisBarang jb merupakan 
 relasi class kamera pada class jenis barang dimana tiap kamera akan memiliki IDbarang yang nantinya akan muncul pada class kamera.
 
@@ -44,7 +44,7 @@ Class Pelanggan
 <img src="./pel5.png"/>
 <img src="./pel6.png"/>
 
-Pada class pelanggan berisikan variable IDpelanggan, namapelanggan, alamat, dan nomor hp yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
+Pada class pelanggan berisikan atribut IDpelanggan, namapelanggan, alamat, dan nomor hp yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. 
 
 Class Peminjaman
@@ -59,7 +59,7 @@ Class Peminjaman
 <img src="./pem8.png"/>
 <img src="./pem9.png"/>
 
-Pada class peminjaman berisikan variable IDpeminjaman, harga, tanggalpinjam, tanggalkembali yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
+Pada class peminjaman berisikan atribut IDpeminjaman, harga, tanggalpinjam, tanggalkembali yang kemudian pada form akan dimasukkan datanya dan data tersebut apabila kita 
 sudah mengisi dan mengeklik button simpan maka data tersebut akan muncul pada tabel dan juga akan tersimpan pada database. Terdapat variable Pelanggan pelanggan, dan JenisBarang jenisbarang
 karena mereka merupakan relasi class pada class pelanggan dan class jenis barang dimana dalam form akan dimunculkan data dari pelanggan yang sudah tersimpan pada tabel pelanggan 
 dan data dari kamera akan muncul dari data yang sudah tersimpan pada tabel kamera.
